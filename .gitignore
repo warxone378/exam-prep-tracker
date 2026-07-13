@@ -1,1 +1,2 @@
-gradle/wrapper/gradle-wrapper.jar filter=lfs diff=lfs merge=lfs -text
+# Gradle wrapper - tracked in LFS
+# gradle/wrapper/gradle-wrapper.jar filter=lfs diff=lfs merge=lfs -text
