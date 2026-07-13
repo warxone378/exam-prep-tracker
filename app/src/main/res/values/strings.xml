@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActuaryPro - Exam Tracker</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_exams">Exams</string>
+    <string name="title_quiz">Daily Quiz</string>
+    <string name="title_flashcards">Flashcards</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Dashboard -->
+    <string name="label_your_progress">Your Progress</string>
+    <string name="label_average_score">Average Score</string>
+    <string name="label_study_time">Study Time</string>
+    <string name="label_streak">Streak</string>
+    <string name="label_due_flashcards">Due Flashcards</string>
+    <string name="button_start_quiz">Start Daily Quiz</string>
+    <string name="button_review_flashcards">Review Flashcards</string>
+    <string name="button_weak_areas">Review Weak Areas</string>
+
+    <!-- Exams -->
+    <string name="label_select_exam">Select an Exam</string>
+    <string name="label_exam_details">Exam Details</string>
+    <string name="label_total_questions">Total Questions</string>
+    <string name="label_passing_score">Passing Score</string>
+    <string name="label_duration">Duration</string>
+    <string name="label_minutes">minutes</string>
+
+    <!-- Quiz -->
+    <string name="label_question">Question</string>
+    <string name="label_of">of</string>
+    <string name="button_submit">Submit Answer</string>
+    <string name="button_skip">Skip Question</string>
+    <string name="label_quiz_complete">Quiz Complete!</string>
+    <string name="label_your_score">Your Score</string>
+    <string name="label_correct_answers">Correct Answers</string>
+
+    <!-- Flashcards -->
+    <string name="label_flashcard">Flashcard</string>
+    <string name="button_flip">Flip Card</string>
+    <string name="button_easy">Easy</string>
+    <string name="button_good">Good</string>
+    <string name="button_hard">Hard</string>
+    <string name="label_study_complete">Study Session Complete</string>
+
+    <!-- General -->
+    <string name="button_continue">Continue</string>
+    <string name="button_retry">Retry</string>
+    <string name="button_back">Back</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading_data">Error loading data</string>
+</resources>
